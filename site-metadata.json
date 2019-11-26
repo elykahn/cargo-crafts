@@ -13,6 +13,11 @@
     "content": "&copy; All rights reserved.",
     "links": [
       {
+        "text": "ely.io",
+        "url": "https://ely.io",
+        "new_window": true
+      },
+      {
         "text": "Made with Gatsby, Forestry, Github & Stackbit",
         "url": "https://www.stackbit.com",
         "new_window": true

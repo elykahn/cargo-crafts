@@ -17,6 +17,8 @@ fields:
   label: Image
   description: The image shown on the left side. If no image added, the default image
     specified in Header Configuration is displayed.
+  config:
+    maxSize: ''
 - type: text
   name: template
   label: Template
